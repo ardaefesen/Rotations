@@ -1,14 +1,5 @@
-package c1611053_ceng497lab8;
-
 import java.awt.*;
 import java.awt.event.*;
-
-
-
-
-										//Arda Efe ÞEN
-										// 201611053
-										// Section2
 
 public class Rotations extends Frame implements ActionListener,MouseListener {
 
